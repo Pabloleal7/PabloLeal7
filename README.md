@@ -1,10 +1,3 @@
-### Hi there 👋
-
-<!--
-**Pabloleal7/PabloLeal7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 
 # Olá, eu sou Pablo! 👋
 
@@ -36,5 +29,3 @@ Quer me conhecer melhor pode me contatar ou contratar.
 
 
 
-
--->
