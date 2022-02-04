@@ -5,7 +5,11 @@
 ## 🚀 Sobre mim
 Sou apaixonado por tecnologia, atualmente estou focando meus estudos em Java com Spring, Node.js e Angular ...
 Sou Formado em Analise e desenvolvimento de Sistemas, e estou em andamento na formação de Ciencias da Computação.
-###  Mas a melhor de todas as minhas conquistas para minha carreira profisional é fazer parte da turma de alunos da **Let's Code**.
+###  Mas a melhor de todas as minhas conquistas para minha carreira profisional é fazer parte da turma de alunos da **Let's Code** .
+
+##OBS
+Promessa da Let'code pra mim 
+**Você será um dev fora da curva*
 
 
 ## 🛠 Habilidades
