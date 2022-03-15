@@ -11,6 +11,8 @@ Sou Formado em Analise e desenvolvimento de Sistemas, e estou em andamento na fo
 Promessa da Let'code pra mim ->
 *Você será um dev fora da curva*
 
+[Materia sobre um projeto de um sistema de votação online que fiz para a escola onde trabalho](http://nte15.educacao.ba.gov.br/?p=2699)
+
 
 ## 🛠 Habilidades
 Javascript, TypeScript, Java, Spring, HTML, CSS, Angular, Express, Mongoose.
