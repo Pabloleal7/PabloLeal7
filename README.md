@@ -30,7 +30,7 @@ Javascript, TypeScript, Java, Spring, HTML, CSS, Angular, Express, Mongoose.
 
 🧠 Estou sempre buscando conhecimento em diversas áreas, talvez meu sobrenome seja Soft Skill pois quase todo meu conhecimento foi adquirido para resolver problemas de outras pessoas.
 
-Quer me conhecer melhor pode me contatar ou contratar.
+Quer me conhecer melhor pode me contatar.
 
 
 
